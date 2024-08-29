@@ -1,16 +1,16 @@
-# 成绩管理系统
+# Achievement management system
 
-高中理科班级成绩管理系统。
+Grade management system for high school science classes.
 
-## ✨ 项目介绍
+## ✨ Project Description
 
-1. 登录与路由守卫
-2. 用户管理
-3. 考试管理
-4. 成绩管理
-5. 查分管理
+1. Login and Route Guard
+2. User Management
+3. Exam Management
+4. Grade Management
+5. Score Management
 
 
-## 📄 许可证
+## 📄 Licence
 
 [MIT](LICENSE)
